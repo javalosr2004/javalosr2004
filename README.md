@@ -1,6 +1,6 @@
 # Jesus' Github
 
-### Hi my name is Jesus Angel Avalos-Regalado, and I am currently attending Cal Poly San Luis Obispo 🐎
+### Hi my name is Jesus Angel Avalos-Regalado, and I am a freshman at Cal Poly San Luis Obispo 🐎
 
 ## My goals are to 
 
