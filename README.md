@@ -4,14 +4,14 @@
 
 ## My goals are to 
 
-- develop programs that help those who aren't as tech savy
+- develop programs to help those who aren't as tech savy
 
-- learn to think critically and logically about situations
+- understand how AI works
 
-- make lifelong connections along the way
+- become a leader
 
 
-## Currently looking for any opportunity to develop my knowledge in the tech-field
+## Developer @ Hack4Impact
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=javalosr2004&show_icons=true&theme=tokyonight)
