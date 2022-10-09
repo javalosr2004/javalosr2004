@@ -8,7 +8,7 @@
 
 - understand how AI works
 
-- become a leader
+- lead others in projects
 
 
 ## Developer @ Hack4Impact
