@@ -1,20 +1,6 @@
 # Jesus' Github
 
-### Hi my name is Jesus Angel Avalos-Regalado, and I am a freshman at Cal Poly San Luis Obispo 🐎
+### Hi my name is Jesus Angel Avalos-Regalado, and I am a sophomore at Cal Poly San Luis Obispo 🐎
 
-## My goals are to 
-
-- develop programs to help those who aren't as tech savy
-
-- understand how AI works
-
-- lead others in projects
-
-
-## Developer @ Hack4Impact
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=javalosr2004&show_icons=true&theme=tokyonight)
-
-
+## Director of Engineering @ Hack4Impact
 
